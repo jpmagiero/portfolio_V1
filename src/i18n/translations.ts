@@ -1,0 +1,60 @@
+export const translations = {
+  en: {
+    translation: {
+      'nav.about': 'About',
+      'nav.experience': 'Experience',
+      'nav.skills': 'Skills',
+      'nav.contact': 'Contact',
+      'hero.title': 'Full Stack Developer',
+      'hero.subtitle': 'Passionate about creating efficient and scalable solutions with modern technologies.',
+      'about.title': 'About Me',
+      'about.description': "I'm a Full Stack Developer with a degree in Computer Science. Currently working as a Junior III developer, I'm enthusiastic about technology and constantly seeking new challenges. I specialize in React and am improving my English skills to expand my professional reach.",
+      'experience.title': 'Experience',
+      'experience.job1.title': 'Junior III - Back-End Developer',
+      'experience.job1.company': 'SenseUp',
+      'experience.job1.period': '02/2022 - Present',
+      'experience.job1.description1': 'Leading projects in the AgroInd program, developing solutions for agricultural and industrial sectors using Node.js and Express.',
+      'experience.job1.description2': 'Development of the SenseUp platform, focused on low-code integrations.',
+      'experience.job1.description3': 'Leadership in system integration implementations, including architecture, developer mentoring, and technical support.',
+      'experience.job2.title': 'Intern - Back-End Developer and Oracle',
+      'experience.job2.company': 'Conexos Ltda',
+      'experience.job2.period': '06/2021 - 12/2021',
+      'experience.job2.description1': 'Development and maintenance of Conexos ERP backend using Java with Spring Boot',
+      'experience.job2.description2': 'Implementation of automated tests with JUnit',
+      'skills.title': 'Technical Skills',
+      'contact.title': 'Get in Touch',
+      'social.email': 'Email',
+      'social.linkedin': 'LinkedIn',
+      'social.github': 'GitHub'
+    }
+  },
+  pt: {
+    translation: {
+      'nav.about': 'Sobre',
+      'nav.experience': 'Experiência',
+      'nav.skills': 'Habilidades',
+      'nav.contact': 'Contato',
+      'hero.title': 'Desenvolvedor Full Stack',
+      'hero.subtitle': 'Apaixonado por criar soluções eficientes e escaláveis com tecnologias modernas.',
+      'about.title': 'Sobre Mim',
+      'about.description': 'Sou um Desenvolvedor Full Stack formado em Ciência da Computação. Atualmente trabalhando como Junior III, sou entusiasta de tecnologia e busco constantemente novos desafios. Me especializando em React, além de aprimorar minhas habilidades no inglês para expandir minha atuação profissional.',
+      'experience.title': 'Experiência',
+      'experience.job1.title': 'Junior III - Desenvolvedor Back-End',
+      'experience.job1.company': 'SenseUp',
+      'experience.job1.period': '02/2022 - Presente',
+      'experience.job1.description1': 'Liderança em projetos do programa AgroInd, desenvolvendo soluções para os setores agrícola e industrial usando Node.js e Express.',
+      'experience.job1.description2': 'Desenvolvimento da plataforma SenseUp, voltada para integrações low-code.',
+      'experience.job1.description3': 'Liderança em implementações de sistemas de integração, incluindo arquitetura, mentoria de desenvolvedores e suporte técnico.',
+      'experience.job2.title': 'Estágio - Desenvolvedor Back-End e Oracle',
+      'experience.job2.company': 'Conexos Ltda',
+      'experience.job2.period': '06/2021 - 12/2021',
+      'experience.job2.description1': 'Desenvolvimento e manutenção do backend do ERP Conexos usando Java com Spring Boot',
+      'experience.job2.description2': 'Implementação de testes automatizados com JUnit',
+      'skills.title': 'Habilidades Técnicas',
+      'contact.title': 'Entre em Contato',
+      'social.email': 'Email',
+      'social.linkedin': 'LinkedIn',
+      'social.github': 'GitHub'
+    }
+  }
+};
