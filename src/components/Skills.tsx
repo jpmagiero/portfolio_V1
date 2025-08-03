@@ -45,9 +45,9 @@ const techSkills = [
     category: "devops"
   },
   {
-    name: "VueJS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
-    category: "frontend"
+    name: ".NET",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg",
+    category: "backend"
   },
   {
     name: "Git",
