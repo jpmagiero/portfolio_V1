@@ -31,7 +31,7 @@ export const en = {
   // SenseUp
   company1: "SenseUp",
   position1: "Junior III - Back-End Developer",
-  period1: "02/2022 - Present",
+  period1: "02/2022 - 05/2025",
   responsibility1_1: "Leadership in AgroInd program projects, developing solutions for agricultural and industrial sectors using Node.js and Express.",
   responsibility1_2: "Development of the SenseUp platform, focused on low-code integrations.",
   responsibility1_3: "Leadership in implementation of integration systems, including architecture, developer mentoring, and technical support to the commercial team.",
@@ -41,6 +41,15 @@ export const en = {
   position2: "Intern - Back-End and Oracle Developer",
   period2: "06/2021 - 12/2021",
   responsibility2_1: "Development and maintenance of the Conexos ERP backend using Java with Spring Boot and implementation of automated tests with JUnit.",
+  
+  // SMi Group
+  company3: "SMi Group",
+  position3: "Mid-Level - Full-Stack Developer",
+  period3: "06/2025 - Present",
+  responsibility3_1: "Full Stack Developer responsible for developing and maintaining web and mobile applications with a strong focus on performance and scalability.",
+  responsibility3_2: "Uses technologies such as NestJS and .Net to build robust and modular back-end services.",
+  responsibility3_3: "Works collaboratively with designers and fellow developers to create innovative and efficient solutions.",
+  responsibility3_4: "Actively participates in code reviews, promoting best development practices and code quality.",
   
   // Skills
   skillsTitle: "Technical Skills",
@@ -53,5 +62,5 @@ export const en = {
   location: "Location",
   
   // Footer
-  copyright: "© 2023 João Paulo Magiero R. - All rights reserved",
+  copyright: "© 2025 João Paulo Magiero R. - All rights reserved",
 };
