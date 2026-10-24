@@ -9,16 +9,16 @@ export const en = {
   
   // Hero
   greeting: "Hello, I'm",
-  title: "Full Stack Developer",
+  title: "Full Stack Software Engineer",
   cta: "Let's Talk",
   
   // About
   aboutTitle: "About Me",
-  aboutText: "I'm a Full Stack Developer, currently working as a Junior III Developer. Having graduated in Computer Science, I'm a technology enthusiast constantly seeking new challenges. I'm specializing in React while improving my English skills to expand my professional reach.",
+  aboutText: "I'm a Full Stack Software Engineer with a degree in Computer Science and experience building web applications, APIs, and integrations for industrial and agricultural clients. I work with React, TypeScript, Node.js, NestJS, .NET, and SQL. My experience includes architectural decisions, technical leadership, code reviews, and developer mentoring.",
   
   // Professional Objective
   objectiveTitle: "Professional Objective",
-  objectiveText: "I'm seeking opportunities in Software Development to apply my skills, expand my knowledge, and contribute to solutions that make a difference.",
+  objectiveText: "I'm seeking Full Stack Software Engineer and Backend Engineer opportunities to build scalable applications, integrate systems, and automate processes. I aim to bring my development and technical leadership experience to solving business problems and delivering quality software.",
   
   // Education
   educationTitle: "Education",
@@ -30,37 +30,37 @@ export const en = {
   
   // SenseUp
   company1: "SenseUp",
-  position1: "Junior III - Back-End Developer",
-  period1: "02/2022 - 05/2025",
-  responsibility1_1: "Leadership in AgroInd program projects, developing solutions for agricultural and industrial sectors using Node.js and Express.",
-  responsibility1_2: "Development of the SenseUp platform, focused on low-code integrations.",
-  responsibility1_3: "Leadership in implementation of integration systems, including architecture, developer mentoring, and technical support to the commercial team.",
+  position1: "Backend Developer — Internship to Full-Time",
+  period1: "02/2022 - 06/2025",
+  responsibility1_1: "Contributed to SenseUp Hub, a low-code integration platform, building backend services, APIs, and workflow execution features with TypeScript and Node.js.",
+  responsibility1_2: "Contributed to the architecture, development, and delivery of four custom AgroInd solutions for agricultural and industrial clients, leading two of these projects.",
+  responsibility1_3: "Led the integrations team across requirements analysis, architecture, planning, code reviews, and mentoring, while developing NestJS services and supporting technical sales presentations.",
   
   // Conexos
   company2: "Conexos Ltda",
-  position2: "Intern - Back-End and Oracle Developer",
+  position2: "Backend Development Intern",
   period2: "06/2021 - 12/2021",
-  responsibility2_1: "Development and maintenance of the Conexos ERP backend using Java with Spring Boot and implementation of automated tests with JUnit.",
+  responsibility2_1: "Contributed to the development and maintenance of the Conexos ERP backend for the foreign trade sector using Java and Spring Boot. Worked with business requirements, feature maintenance, and automated testing.",
   
   // SMi Group
-  company3: "SMi Group",
-  position3: "Mid-Level - Full-Stack Developer",
-  period3: "06/2025 - Present",
-  responsibility3_1: "Full Stack Developer responsible for developing and maintaining web and mobile applications with a strong focus on performance and scalability.",
-  responsibility3_2: "Uses technologies such as NestJS and .Net to build robust and modular back-end services.",
-  responsibility3_3: "Works collaboratively with designers and fellow developers to create innovative and efficient solutions.",
-  responsibility3_4: "Actively participates in code reviews, promoting best development practices and code quality.",
+  company3: "SMi Engineering",
+  position3: "Full Stack Developer",
+  period3: "06/2025 - 09/2026",
+  responsibility3_1: "Built React interfaces and NestJS backend services for new Intellifix modules, optimizing the processing and presentation of large datasets.",
+  responsibility3_2: "Contributed to the PIM module for real-time operator allocation, training records, and qualification requirements.",
+  responsibility3_3: "Worked on the MMS module, implementing sensor-based production indicators and material tracking with automatic replenishment requests.",
+  responsibility3_4: "Supervised developers implementing CFG, a central configuration module within a microservices architecture, and participated in code reviews.",
   
   // Skills
   skillsTitle: "Technical Skills",
   
   // Contact
   contactTitle: "Get In Touch",
-  contactText: "Feel free to reach out for job opportunities or collaboration.",
+  contactText: "Get in touch to discuss opportunities in software engineering, full stack development, and backend development.",
   phone: "Phone",
   email: "Email",
   location: "Location",
   
   // Footer
-  copyright: "© 2025 João Paulo Magiero R. - All rights reserved",
+  copyright: "© {year} João Paulo Magiero R. — All rights reserved.",
 };

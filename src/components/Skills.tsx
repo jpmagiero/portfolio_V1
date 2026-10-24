@@ -30,7 +30,7 @@ const techSkills = [
     category: "frontend"
   },
   {
-    name: "NodeJS",
+    name: "Node.js",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
     category: "backend"
   },
